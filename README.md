@@ -60,7 +60,3 @@
   <a href="#"><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" title="Angular" alt="Angular"/>&nbsp;
 </div>
     
-### :fire: Stats
-<div align="center" style="background-color: #3d15b0;">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=myassineboum&theme=radical&show_icons=true"/></a>
-</div>
